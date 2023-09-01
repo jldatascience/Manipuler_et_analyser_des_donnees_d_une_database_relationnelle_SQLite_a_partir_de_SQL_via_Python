@@ -35,6 +35,8 @@ Cf. le notebook ci-joint.
 
 Ce guide permet d'utiliser le module python sqlite3 pour se connecter à la base de données et exécuter des instructions SQL.
 
+Dans ce use case, nous venons d'utiliser SELECT qui correspond au DQL (Data Query Language) pour extraire, manipuler, trier et analyser des données de la base de données à l'aide de requêtes SQL
+
 L'idéal pour se faire la main sur SQL tout en manipulant une base de données
 
 
